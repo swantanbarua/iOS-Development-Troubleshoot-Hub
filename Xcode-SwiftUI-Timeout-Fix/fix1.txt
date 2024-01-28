@@ -1,0 +1,1 @@
+If you encounter the Xcode issue "Timed out waiting for launch/connect to preview shell after 30.0 seconds" while developing a SwiftUI application, you can resolve it by simply changing the simulator of the Preview to a different one.
